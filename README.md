@@ -9,4 +9,4 @@ kodland python pro kursunda hackathon için oluşturduğumuz repo
 - malzemelerin plastiklerin vb. geri dönüşümünün yapılmasının artırılması
 
 ## Projemin fikri:
-> yapay zeka ile yönetilen hibrit bir motor
+> yapay zeka ile yönetilen hibrit bir motorhttps://github.com/roberto
